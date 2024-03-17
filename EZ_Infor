@@ -7,4 +7,6 @@ push devices Ez to Adz
 Format Imie for Androidfaker
 Fix install apk xapk
 On off Location [GPS]
+Add pkg and process to denylist [ chỉ có tác dụng khi install apk|xapk|zip qua tool]
+Update danh sách denylist lên sever [ chọn 10.Get - Update denylist > Doit]
 And more......
