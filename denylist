@@ -252,3 +252,6 @@ package_name=com.moneytune.easy|process=com.moneytune.easy
 package_name=app.adzchanger|process=app.adzchanger
 package_name=com.plarium.mechlegion|process=com.plarium.mechlegion:com.IsolatedService
 package_name=com.purplekiwii.vegaslive|process=com.purplekiwii.vegaslive
+package_name=com.happygames.mergehotel|process=com.happygames.mergehotel
+package_name=io.randomco.travel|process=io.randomco.travel
+package_name=com.redcell.goldandgoblins|process=com.redcell.goldandgoblins
