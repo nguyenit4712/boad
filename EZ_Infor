@@ -9,4 +9,5 @@ Fix install apk xapk
 On off Location [GPS]
 Add pkg and process to denylist [ chỉ có tác dụng khi install apk|xapk|zip qua tool]
 Update danh sách denylist lên sever [Trong group Control packages chọn 10.Get - Update denylist > Doit]
+Gỡ toàn bộ app trừ danh sách default [Trong group Control packages chọn 11.Uninstall all apps > Doit]
 And more......
