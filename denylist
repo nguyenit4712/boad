@@ -255,3 +255,8 @@ package_name=com.purplekiwii.vegaslive|process=com.purplekiwii.vegaslive
 package_name=com.happygames.mergehotel|process=com.happygames.mergehotel
 package_name=io.randomco.travel|process=io.randomco.travel
 package_name=com.redcell.goldandgoblins|process=com.redcell.goldandgoblins
+package_name=com.superplaystudios.dicedreams|process=com.superplaystudios.dicedreams
+package_name=com.bingo.scape.android.free|process=com.bingo.scape.android.free
+package_name=com.zymobile.merge.decor.gp|process=com.zymobile.merge.decor.gp
+package_name=com.bingo.scape.android.free|process=com.bingo.scape.android.free:playcore_missing_splits_activity
+package_name=com.zymobile.merge.decor.gp|process=com.zymobile.merge.decor.gp:gameAnalyticsExceptionReporter
