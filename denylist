@@ -260,3 +260,6 @@ package_name=com.bingo.scape.android.free|process=com.bingo.scape.android.free
 package_name=com.zymobile.merge.decor.gp|process=com.zymobile.merge.decor.gp
 package_name=com.bingo.scape.android.free|process=com.bingo.scape.android.free:playcore_missing_splits_activity
 package_name=com.zymobile.merge.decor.gp|process=com.zymobile.merge.decor.gp:gameAnalyticsExceptionReporter
+package_name=com.playcus.free.bingo.games.country.farm.game|process=com.playcus.free.bingo.games.country.farm.game
+package_name=com.playcus.free.bingo.games.country.farm.game|process=com.playcus.free.bingo.games.country.farm.game:gameAnalyticsExceptionReporter
+package_name=com.playcus.free.bingo.games.country.farm.game|process=com.playcus.free.bingo.games.country.farm.game:playcore_missing_splits_activity
