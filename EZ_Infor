@@ -1,3 +1,4 @@
+v3.1.0.9 tăng tốc độ show qua scrcpy
 Fix crash tool khi insstall file apk,xapk,apks chứa ký tự đặc biệt
 Fix Full wipe for filter device when select confirm
 Install xapk,apks file
