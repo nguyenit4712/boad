@@ -266,3 +266,5 @@ package_name=com.playcus.free.bingo.games.country.farm.game|process=com.playcus.
 package_name=com.twodesperados.violasquest|process=com.twodesperados.violasquest
 package_name=com.twodesperados.violasquest|process=com.twodesperados.violasquest:playcore_missing_splits_activity
 package_name=air.com.buffalo_studios.newflashbingo|process=air.com.buffalo_studios.newflashbingo:CrashWatchdogService
+package_name=com.generagames.toscana.hotel|process=com.generagames.toscana.hotel
+package_name=com.generagames.toscana.hotel|process=com.generagames.toscana.hotel:playcore_missing_splits_activity
