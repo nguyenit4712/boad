@@ -268,3 +268,9 @@ package_name=com.twodesperados.violasquest|process=com.twodesperados.violasquest
 package_name=air.com.buffalo_studios.newflashbingo|process=air.com.buffalo_studios.newflashbingo:CrashWatchdogService
 package_name=com.generagames.toscana.hotel|process=com.generagames.toscana.hotel
 package_name=com.generagames.toscana.hotel|process=com.generagames.toscana.hotel:playcore_missing_splits_activity
+package_name=com.ivy.merge|process=com.ivy.merge
+package_name=com.yatzy.blitz.dice.roll.game|process=com.yatzy.blitz.dice.roll.game
+package_name=com.ivy.merge|process=com.ivy.merge:AppMetrica
+package_name=com.ivy.merge|process=com.ivy.merge:playcore_missing_splits_activity
+package_name=com.ivy.merge|process=com.ivy.merge:push
+package_name=com.yatzy.blitz.dice.roll.game|process=com.yatzy.blitz.dice.roll.game:playcore_missing_splits_activity
