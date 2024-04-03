@@ -274,3 +274,4 @@ package_name=com.ivy.merge|process=com.ivy.merge:AppMetrica
 package_name=com.ivy.merge|process=com.ivy.merge:playcore_missing_splits_activity
 package_name=com.ivy.merge|process=com.ivy.merge:push
 package_name=com.yatzy.blitz.dice.roll.game|process=com.yatzy.blitz.dice.roll.game:playcore_missing_splits_activity
+package_name=com.vizorapps.atlantis|process=com.vizorapps.atlantis
