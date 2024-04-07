@@ -291,3 +291,5 @@ package_name=com.lumber.inc|process=com.lumber.inc:playcore_missing_splits_activ
 package_name=com.bbumgames.spadesroyale|process=com.bbumgames.spadesroyale:playcore_missing_splits_activity
 package_name=com.gsn.android.tripeaks|process=Gsn.tripeaks
 package_name=com.pocketchamps.game|process=com.pocketchamps.game:gameAnalyticsExceptionReporter
+package_name=net.peakgames.match|process=net.peakgames.match
+package_name=com.HoYoverse.hkrpgoversea|process=com.HoYoverse.hkrpgoversea:GP6Service
