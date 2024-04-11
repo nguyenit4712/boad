@@ -296,3 +296,5 @@ package_name=com.HoYoverse.hkrpgoversea|process=com.HoYoverse.hkrpgoversea:GP6Se
 package_name=com.mergegames.merge.neverland|process=com.mergegames.merge.neverland:AppMetrica
 package_name=ci.atlasearth.client|process=ci.atlasearth.client:playcore_missing_splits_activity
 package_name=com.weplaydots.twodotsandroid|process=com.weplaydots.twodotsandroid:playcore_missing_splits_activity
+package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.android
+package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.android:Metrica
