@@ -294,3 +294,4 @@ package_name=com.pocketchamps.game|process=com.pocketchamps.game:gameAnalyticsEx
 package_name=net.peakgames.match|process=net.peakgames.match
 package_name=com.HoYoverse.hkrpgoversea|process=com.HoYoverse.hkrpgoversea:GP6Service
 package_name=com.mergegames.merge.neverland|process=com.mergegames.merge.neverland:AppMetrica
+package_name=ci.atlasearth.client|process=ci.atlasearth.client:playcore_missing_splits_activity
