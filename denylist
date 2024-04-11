@@ -293,3 +293,4 @@ package_name=com.gsn.android.tripeaks|process=Gsn.tripeaks
 package_name=com.pocketchamps.game|process=com.pocketchamps.game:gameAnalyticsExceptionReporter
 package_name=net.peakgames.match|process=net.peakgames.match
 package_name=com.HoYoverse.hkrpgoversea|process=com.HoYoverse.hkrpgoversea:GP6Service
+package_name=com.mergegames.merge.neverland|process=com.mergegames.merge.neverland:AppMetrica
