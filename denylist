@@ -298,3 +298,5 @@ package_name=ci.atlasearth.client|process=ci.atlasearth.client:playcore_missing_
 package_name=com.weplaydots.twodotsandroid|process=com.weplaydots.twodotsandroid:playcore_missing_splits_activity
 package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.android
 package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.android:Metrica
+package_name=com.jellybtn.boardkings|process=com.jellybtn.boardkings
+package_name=com.scopely.startrek|process=com.scopely.startrek
