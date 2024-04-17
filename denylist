@@ -300,3 +300,9 @@ package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.andro
 package_name=onet.tile.match.puzzle.android|process=onet.tile.match.puzzle.android:Metrica
 package_name=com.jellybtn.boardkings|process=com.jellybtn.boardkings
 package_name=com.scopely.startrek|process=com.scopely.startrek
+package_name=com.diamondlife.slots.vegas.free|process=com.diamondlife.slots.vegas.free
+package_name=com.playstudios.popslots|process=com.playstudios.popslots
+package_name=com.restaurantgame.cookingstory|process=com.restaurantgame.cookingstory
+package_name=com.tile.match.blitz|process=com.tile.match.blitz
+package_name=com.tile.match.blitz|process=com.tile.match.blitz:playcore_missing_splits_activity
+package_name=com.playstudios.popslots|process=com.playstudios.popslots:playcore_missing_splits_activity
