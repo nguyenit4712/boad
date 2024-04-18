@@ -306,3 +306,4 @@ package_name=com.restaurantgame.cookingstory|process=com.restaurantgame.cookings
 package_name=com.tile.match.blitz|process=com.tile.match.blitz
 package_name=com.tile.match.blitz|process=com.tile.match.blitz:playcore_missing_splits_activity
 package_name=com.playstudios.popslots|process=com.playstudios.popslots:playcore_missing_splits_activity
+package_name=air.com.bitrhymes.bingo|process=air.com.bitrhymes.bingo
