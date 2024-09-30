@@ -316,3 +316,7 @@ package_name=task.game.joy.coin.cash.earn|process=task.game.joy.coin.cash.earn:E
 package_name=com.colorswitch.switch2|process=com.colorswitch.switch2
 package_name=com.reelrush.video.mobilink|process=com.reelrush.video.mobilink
 package_name=com.reelrush.video.mobilink|process=com.reelrush.video.mobilink:phoenix
+package_name=com.amazon.mp3|process=com.amazon.mp3
+package_name=com.amazon.mp3|process=com.amazon.mp3:TracePublisherService
+package_name=com.integration.accumulate|process=com.integration.accumulate
+package_name=com.henrikherzig.playintegritychecker|process=com.henrikherzig.playintegritychecker
