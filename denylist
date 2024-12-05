@@ -320,3 +320,14 @@ package_name=com.amazon.mp3|process=com.amazon.mp3
 package_name=com.amazon.mp3|process=com.amazon.mp3:TracePublisherService
 package_name=com.integration.accumulate|process=com.integration.accumulate
 package_name=com.henrikherzig.playintegritychecker|process=com.henrikherzig.playintegritychecker
+package_name=com.google.android.gms|process=com.google.android.gms
+package_name=com.google.android.gms|process=com.google.android.gms.unstable
+package_name=com.android.chrome|process=com.android.chrome
+package_name=com.dreamsleep.survey.app|process=com.dreamsleep.survey.app
+package_name=com.dreamsleep.survey.app|process=com.dreamsleep.survey.app:EmulatorCheckService
+package_name=com.socialloop.casharcade|process=com.socialloop.casharcade
+package_name=com.socialloop.casharcade|process=com.socialloop.casharcade:adjoe
+package_name=com.enflick.android.TextNow|process=com.enflick.android.TextNow
+package_name=com.bravestars.hair.salon.beauty|process=com.bravestars.hair.salon.beauty
+package_name=com.bravestars.hair.salon.beauty|process=com.bravestars.hair.salon.beauty:AppMetrica
+package_name=com.bravestars.hair.salon.beauty|process=com.bravestars.hair.salon.beauty:gameAnalyticsExceptionReporter
