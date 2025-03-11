@@ -384,3 +384,5 @@ package_name=com.android.chrome|process=com.android.chrome:privileged_process4
 package_name=com.android.chrome|process=com.android.chrome:webview_apk
 package_name=com.android.chrome|process=com.android.chrome:webview_service
 package_name=com.surfshark.vpnclient.android|process=com.surfshark.vpnclient.android
+package_name=com.android.vending|process=com.android.vending
+package_name=isolated|process=io.github.vvb2060.mahoshojo
